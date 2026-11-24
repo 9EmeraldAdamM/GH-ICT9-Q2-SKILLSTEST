@@ -1,0 +1,8 @@
+ body {
+      background: url('https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/96660b45-6516-4fad-a7e0-7a9b929cc1d2/O.B+Montessori+Center%2C+Basketball+Intramurals') no-repeat center center fixed;
+      background-size: cover;
+    }
+    .form-box {
+      background-color: rgba(255, 255, 255, 0.85);
+      border-radius: 10px;
+    }
